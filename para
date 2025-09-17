@@ -1,6 +1,0 @@
-Uses CSS Grid for responsive layout.
-Each card has a subtle hover scale effect.
-Dark gradient background for that cool Demon Slayer vibe.
-Images are sized consistently with object-fit cover.
-Text is styled with a neon-ish pink color to pop on dark background.
-Each card contains an image, character name, and a short description.
